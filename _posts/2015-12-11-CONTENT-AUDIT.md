@@ -3,65 +3,10 @@ title: CONTENT AUDIT
 layout: page
 author: julie.reposa
 permalink: /content-audit/
-# Site title and subtitle. This is used in _includes/header.html
-title: 'jekyll-docs-template'
-subtitle: 'Painless documentation for your projects'
-
-# if you wish to integrate disqus on pages set your shortname here
-disqus_shortname: ''
-
-# if you use google analytics, add your tracking id here
-google_analytics_id: ''
-
-# Enable/show navigation. There are there options:
-#   0 - always hide
-#   1 - always show
-#   2 - show only if posts are present
-navigation: 2
-
-# URL to source code, used in _includes/footer.html
-codeurl: 'https://github.com/bruth/jekyll-docs-template'
-
-# Default categories (in order) to appear in the navigation
-sections: [
-    ['doc', 'Documentation'],
-    ['tut', 'Tutorial'],
-    ['ref', 'Reference'],
-    ['dev', 'Developers'],
-    ['post', 'Posts']
-]
-
-# Keep as an empty string if served up at the root. If served up at a specific
-# path (e.g. on GitHub pages) leave off the trailing slash, e.g. /my-project
-baseurl: ''
-
-# Dates are not included in permalinks
-permalink: none
-
-# Syntax highlighting
-highlighter: pygments
-
-# Since these are pages, it doesn't really matter
-future: true
-
-# Exclude non-site files
-exclude: ['bin', 'README.md']
-
-# Use the redcarpet Markdown renderer
-markdown: redcarpet
-redcarpet:
-    extensions: [
-        'no_intra_emphasis',
-        'fenced_code_blocks',
-        'autolink',
-        'strikethrough',
-        'superscript',
-        'with_toc_data',
-        'tables',
-        'hardwrap'
-    ]
-Status API Training Shop Blog About Pricing
-? 2015 GitHub, Inc. Terms Privacy Security Contact Help
+-layout: page
+-title:  Contributing
+-date:   2013-06-03 21:12:57
+-category: doc
 source-id: 1AyREs_4wNQp2iLl5wuGoCT4PX3GQzyBH_UL0HXyAT8U
 published: true
 ---
