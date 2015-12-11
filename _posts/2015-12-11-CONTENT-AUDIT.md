@@ -3,10 +3,7 @@ title: CONTENT AUDIT
 layout: page
 author: julie.reposa
 permalink: /content-audit/
--layout: page
--title:  Contributing
--date:   2013-06-03 21:12:57
--category: doc
+category: doc
 source-id: 1AyREs_4wNQp2iLl5wuGoCT4PX3GQzyBH_UL0HXyAT8U
 published: true
 ---
